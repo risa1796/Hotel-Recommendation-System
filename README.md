@@ -4,7 +4,8 @@ Recommendation ideas..
 
 ## 📍 1. Find hotels near me! 
 
-  Given your location, 10 hotels near to you will be recommended. Your location is marked blue and the nearest hotel will be marked red. 
+  Given your location, 10 hotels near to you will be recommended. Your location is marked as blue and the nearest hotel : red. 
+  When you click a hotel mark, it will automatically lead you to the corresponding Booking.com page to see more information about the hotel. 
   
   I used the 'Folium' library to visualize hotel locations in Google Map. 
   
