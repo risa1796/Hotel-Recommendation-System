@@ -1,8 +1,8 @@
-# Hotel Recommendation System
+# 🏨 Hotel Recommendation System
 
 Recommendation ideas.. 
 
-1. Find hotels near me! 
+## 📍 1. Find hotels near me! 
 
   Given your location, 10 hotels near to you will be recommended. Your location is marked blue and the nearest hotel will be marked red. I used used Folium to visualize Google Map. 
   
