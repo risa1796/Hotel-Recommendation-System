@@ -10,3 +10,4 @@ Recommendation ideas..
   I used the 'Folium' library to visualize hotel locations in Google Map. 
   
 <img width="863" alt="Bildschirmfoto 2023-01-18 um 22 54 52" src="https://user-images.githubusercontent.com/70292353/213303936-5cbea503-1b62-413f-b89f-e1e3a5df343a.png">
+<img width="1175" alt="Bildschirmfoto 2023-01-18 um 23 04 01" src="https://user-images.githubusercontent.com/70292353/213305387-c3b20969-95ae-4dfb-84e2-97633c81fa22.png">
