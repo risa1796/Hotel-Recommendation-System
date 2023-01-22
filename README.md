@@ -11,7 +11,7 @@ Recommendation ideas..
   
 <img width="863" alt="Bildschirmfoto 2023-01-18 um 22 54 52" src="https://user-images.githubusercontent.com/70292353/213303936-5cbea503-1b62-413f-b89f-e1e3a5df343a.png">
 
-## 2. [Hotel recommendation based on room amenities](https://github.com/risa1796/Hotel-Recommendation-System/blob/main/Hotels_recommendation.ipynb)
+## 2. [Hotel recommendation based on city, budget, guests, room amenities](https://github.com/risa1796/Hotel-Recommendation-System/blob/main/Hotels_recommendation.ipynb)
 
   
 <img width="432" alt="Bildschirmfoto 2023-01-22 um 18 20 00" src="https://user-images.githubusercontent.com/70292353/213930131-2aff2ade-af9d-40ce-92e1-6a1025f4a94d.png">
